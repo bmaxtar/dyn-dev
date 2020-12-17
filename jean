@@ -1,0 +1,684 @@
+<!DOCTYPE html>
+<html lang="fr-FR">
+<head>
+	<meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<link rel="pingback" href="/xmlrpc.php" />
+
+	<script type="text/javascript">
+		document.documentElement.className = 'js';
+	</script>
+
+	<script>var et_site_url='';var et_post_id='68';function et_core_page_resource_fallback(a,b){"undefined"===typeof b&&(b=a.sheet.cssRules&&0===a.sheet.cssRules.length);b&&(a.onerror=null,a.onload=null,a.href?a.href=et_site_url+"/?et_core_page_resource="+a.id+et_post_id:a.src&&(a.src=et_site_url+"/?et_core_page_resource="+a.id+et_post_id))}
+</script>	<script type="text/javascript">function theChampLoadEvent(e){var t=window.onload;if(typeof window.onload!="function"){window.onload=e}else{window.onload=function(){t();e()}}}</script>
+		<script type="text/javascript">var theChampDefaultLang = 'fr_FR', theChampCloseIconPath = '/wp-content/plugins/super-socializer/images/close.png';</script>
+		<script> var theChampSiteUrl = '', theChampVerified = 0, theChampEmailPopup = 0; </script>
+			<script> var theChampLoadingImgPath = '/wp-content/plugins/super-socializer/images/ajax_loader.gif'; var theChampAjaxUrl = '/wp-admin/admin-ajax.php'; var theChampRedirectionUrl = '/produit/jean'; var theChampRegRedirectionUrl = '/produit/jean'; </script>
+				<script> var theChampFBKey = '3506708462774807', theChampSameTabLogin = '0', theChampVerified = 0; var theChampAjaxUrl = '/wp-admin/admin-ajax.php'; var theChampPopupTitle = ''; var theChampEmailPopup = 0; var theChampEmailAjaxUrl = '/wp-admin/admin-ajax.php'; var theChampEmailPopupTitle = ''; var theChampEmailPopupErrorMsg = ''; var theChampEmailPopupUniqueId = ''; var theChampEmailPopupVerifyMessage = ''; var theChampSteamAuthUrl = ""; var theChampCurrentPageUrl = 'https%3A%2F%2Fdyn-dev.oumouexpress.com%2Fproduit%2Fjean';  var heateorMSEnabled = 0, theChampTwitterAuthUrl = theChampSiteUrl + "?SuperSocializerAuth=Twitter&super_socializer_redirect_to=" + theChampCurrentPageUrl, theChampLineAuthUrl = theChampSiteUrl + "?SuperSocializerAuth=Line&super_socializer_redirect_to=" + theChampCurrentPageUrl, theChampLiveAuthUrl = theChampSiteUrl + "?SuperSocializerAuth=Live&super_socializer_redirect_to=" + theChampCurrentPageUrl, theChampFacebookAuthUrl = theChampSiteUrl + "?SuperSocializerAuth=Facebook&super_socializer_redirect_to=" + theChampCurrentPageUrl, theChampYahooAuthUrl = theChampSiteUrl + "?SuperSocializerAuth=Yahoo&super_socializer_redirect_to=" + theChampCurrentPageUrl, theChampGoogleAuthUrl = theChampSiteUrl + "?SuperSocializerAuth=Google&super_socializer_redirect_to=" + theChampCurrentPageUrl, theChampVkontakteAuthUrl = theChampSiteUrl + "?SuperSocializerAuth=Vkontakte&super_socializer_redirect_to=" + theChampCurrentPageUrl, theChampLinkedinAuthUrl = theChampSiteUrl + "?SuperSocializerAuth=Linkedin&super_socializer_redirect_to=" + theChampCurrentPageUrl, theChampInstagramAuthUrl = theChampSiteUrl + "?SuperSocializerAuth=Instagram&super_socializer_redirect_to=" + theChampCurrentPageUrl, theChampWordpressAuthUrl = theChampSiteUrl + "?SuperSocializerAuth=Wordpress&super_socializer_redirect_to=" + theChampCurrentPageUrl, theChampDribbbleAuthUrl = theChampSiteUrl + "?SuperSocializerAuth=Dribbble&super_socializer_redirect_to=" + theChampCurrentPageUrl, theChampGithubAuthUrl = theChampSiteUrl + "?SuperSocializerAuth=Github&super_socializer_redirect_to=" + theChampCurrentPageUrl, theChampSpotifyAuthUrl = theChampSiteUrl + "?SuperSocializerAuth=Spotify&super_socializer_redirect_to=" + theChampCurrentPageUrl, theChampKakaoAuthUrl = theChampSiteUrl + "?SuperSocializerAuth=Kakao&super_socializer_redirect_to=" + theChampCurrentPageUrl; theChampTwitchAuthUrl = theChampSiteUrl + "?SuperSocializerAuth=Twitch&super_socializer_redirect_to=" + theChampCurrentPageUrl;</script>
+				<script> var theChampFBKey = '3506708462774807', theChampFBLang = 'fr_FR', theChampFbLikeMycred = 0, theChampSsga = 0, theChampCommentNotification = 0, theChampHeateorFcmRecentComments = 0, theChampFbIosLogin = 0; </script>
+			<style type="text/css">.the_champ_horizontal_sharing .theChampSharing{
+					color: #fff;
+				border-width: 0px;
+		border-style: solid;
+		border-color: transparent;
+	}
+		.the_champ_horizontal_sharing .theChampTCBackground{
+		color:#666;
+	}
+		.the_champ_horizontal_sharing .theChampSharing:hover{
+				border-color: transparent;
+	}
+	.the_champ_vertical_sharing .theChampSharing{
+					color: #fff;
+				border-width: 0px;
+		border-style: solid;
+		border-color: transparent;
+	}
+		.the_champ_vertical_sharing .theChampTCBackground{
+		color:#666;
+	}
+		.the_champ_vertical_sharing .theChampSharing:hover{
+				border-color: transparent;
+	}
+	@media screen and (max-width:783px){.the_champ_vertical_sharing{display:none!important}}div.heateor_ss_mobile_footer{display:none;}@media screen and (max-width:783px){div.the_champ_bottom_sharing ul.the_champ_sharing_ul i.theChampTCBackground{background-color:white}div.the_champ_bottom_sharing{width:100%!important;left:0!important;}div.the_champ_bottom_sharing li{width:11.111111111111% !important;}div.the_champ_bottom_sharing .theChampSharing{width: 100% !important;}div.the_champ_bottom_sharing div.theChampTotalShareCount{font-size:1em!important;line-height:28px!important}div.the_champ_bottom_sharing div.theChampTotalShareText{font-size:.7em!important;line-height:0px!important}div.heateor_ss_mobile_footer{display:block;height:40px;}.the_champ_bottom_sharing{padding:0!important;display:block!important;width: auto!important;bottom:-2px!important;top: auto!important;}.the_champ_bottom_sharing .the_champ_square_count{line-height: inherit;}.the_champ_bottom_sharing .theChampSharingArrow{display:none;}.the_champ_bottom_sharing .theChampTCBackground{margin-right: 1.1em !important}}</style>
+	
+	<!-- This site is optimized with the Yoast SEO plugin v15.5 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>jean - Dyn Dev Oumou</title>
+	<meta name="robots" content="noindex, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+	<meta property="og:locale" content="fr_FR" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="jean - Dyn Dev Oumou" />
+	<meta property="og:url" content="/produit/jean" />
+	<meta property="og:site_name" content="Dyn Dev Oumou" />
+	<meta property="article:modified_time" content="2020-12-15T12:49:10+00:00" />
+	<meta property="og:image" content="/wp-content/uploads/2020/12/jean-droit-l32-venus-femme-p-1022393_1_1200x1200.jpg" />
+	<meta property="og:image:width" content="1200" />
+	<meta property="og:image:height" content="1200" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"/#website","url":"/","name":"Dyn Dev Oumou","description":"Just another WordPress site","potentialAction":[{"@type":"SearchAction","target":"/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"fr-FR"},{"@type":"ImageObject","@id":"/produit/jean#primaryimage","inLanguage":"fr-FR","url":"/wp-content/uploads/2020/12/jean-droit-l32-venus-femme-p-1022393_1_1200x1200.jpg","width":1200,"height":1200,"caption":"jean femme"},{"@type":"WebPage","@id":"/produit/jean#webpage","url":"/produit/jean","name":"jean - Dyn Dev Oumou","isPartOf":{"@id":"/#website"},"primaryImageOfPage":{"@id":"/produit/jean#primaryimage"},"datePublished":"2020-12-15T12:10:39+00:00","dateModified":"2020-12-15T12:49:10+00:00","inLanguage":"fr-FR","potentialAction":[{"@type":"ReadAction","target":["/produit/jean"]}]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Dyn Dev Oumou &raquo; Flux" href="/feed" />
+<link rel="alternate" type="application/rss+xml" title="Dyn Dev Oumou &raquo; Flux des commentaires" href="/comments/feed" />
+<link rel="alternate" type="application/rss+xml" title="Dyn Dev Oumou &raquo; jean Flux des commentaires" href="/produit/jean/feed" />
+<meta content="Divi v.4.6.0" name="generator"/><link rel='stylesheet' id='wp-block-library-css'  href='/wp-includes/css/dist/block-library/style.min.css?ver=5.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wc-block-vendors-style-css'  href='/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/vendors-style.css?ver=3.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wc-block-style-css'  href='/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/style.css?ver=3.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='photoswipe-css'  href='/wp-content/plugins/woocommerce/assets/css/photoswipe/photoswipe.min.css?ver=4.8.0' type='text/css' media='all' />
+<link rel='stylesheet' id='photoswipe-default-skin-css'  href='/wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/default-skin.min.css?ver=4.8.0' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-layout-css'  href='/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=4.8.0' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-smallscreen-css'  href='/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=4.8.0' type='text/css' media='only screen and (max-width: 768px)' />
+<link rel='stylesheet' id='woocommerce-general-css'  href='/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=4.8.0' type='text/css' media='all' />
+<style id='woocommerce-inline-inline-css' type='text/css'>
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel='stylesheet' id='stripe_styles-css'  href='/wp-content/plugins/woocommerce-gateway-stripe/assets/css/stripe-styles.css?ver=4.6.0' type='text/css' media='all' />
+<link rel='stylesheet' id='xoo-wsc-fonts-css'  href='/wp-content/plugins/side-cart-woocommerce/assets/css/xoo-wsc-fonts.css?ver=2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='xoo-wsc-style-css'  href='/wp-content/plugins/side-cart-woocommerce/assets/css/xoo-wsc-style.css?ver=2.1' type='text/css' media='all' />
+<style id='xoo-wsc-style-inline-css' type='text/css'>
+
+.xoo-wsc-sp-left-col img{
+	max-width: 80px;
+}
+
+.xoo-wsc-sp-right-col{
+	font-size: 14px;
+}
+
+.xoo-wsc-sp-container{
+	background-color: #eee;
+}
+
+
+ 
+
+.xoo-wsc-footer{
+	background-color: #ffffff;
+	color: #000000;
+	padding: 10px 20px;
+}
+
+.xoo-wsc-footer, .xoo-wsc-footer a, .xoo-wsc-footer .amount{
+	font-size: 18px;
+}
+
+.xoo-wsc-ft-buttons-cont{
+	grid-template-columns: auto;
+}
+
+.xoo-wsc-basket{
+	bottom: 12px;
+	right: 0px;
+	background-color: #ffffff;
+	color: #000000;
+	box-shadow: 0 1px 4px 0;
+}
+
+.xoo-wsc-items-count{
+	top: -15px;
+	left: -15px;
+}
+
+.xoo-wsc-items-count, .xoo-wsc-sc-count{
+	background-color: #000000;
+	color: #ffffff;
+}
+
+.xoo-wsc-container, .xoo-wsc-slider{
+	max-width: 320px;
+	right: -320px;
+	top: 0;bottom: 0;
+	bottom: 0;
+	font-family: }
+
+
+.xoo-wsc-cart-active .xoo-wsc-container, .xoo-wsc-slider-active .xoo-wsc-slider{
+	right: 0;
+}
+
+.xoo-wsc-cart-active .xoo-wsc-basket{
+	right: 320px;
+}
+
+.xoo-wsc-slider{
+	right: -320px;
+}
+
+span.xoo-wsch-close {
+    font-size: 16px;
+    right: 10px;
+}
+
+.xoo-wsch-top{
+	justify-content: center;
+}
+
+.xoo-wsch-text{
+	font-size: 20px;
+}
+
+.xoo-wsc-header{
+	color: #000000;
+	background-color: #ffffff;
+}
+
+.xoo-wsc-sb-bar > span{
+	background-color: #1e73be;
+}
+
+.xoo-wsc-body{
+	background-color: #ffffff;
+}
+
+.xoo-wsc-body, .xoo-wsc-body span.amount, .xoo-wsc-body a{
+	font-size: 16px;
+	color: #000000;
+}
+
+.xoo-wsc-product{
+	padding: 20px 15px;
+}
+
+.xoo-wsc-img-col{
+	width: 30%;
+}
+.xoo-wsc-sum-col{
+	width: 70%;
+}
+
+.xoo-wsc-sum-col{
+	justify-content: center;
+}
+
+/***** Quantity *****/
+
+.xoo-wsc-qty-box{
+	max-width: 75px;
+}
+
+.xoo-wsc-qty-box.xoo-wsc-qtb-square{
+	border-color: #000000;
+}
+
+input[type="number"].xoo-wsc-qty{
+	border-color: #000000;
+	background-color: #ffffff;
+	color: #000000;
+	height: 28px;
+	line-height: 28px;
+}
+
+input[type="number"].xoo-wsc-qty, .xoo-wsc-qtb-square{
+	border-width: 1px;
+	border-style: solid;
+}
+.xoo-wsc-chng{
+	background-color: #ffffff;
+	color: #000000;
+}
+</style>
+<link rel='stylesheet' id='divi-fonts-css'  href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800&#038;subset=latin,latin-ext&#038;display=swap' type='text/css' media='all' />
+<link rel='stylesheet' id='divi-style-css'  href='/wp-content/themes/Divi/style.css?ver=4.6.0' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='/wp-includes/css/dashicons.min.css?ver=5.6' type='text/css' media='all' />
+<link rel='stylesheet' id='thickbox-css'  href='/wp-includes/js/thickbox/thickbox.css?ver=5.6' type='text/css' media='all' />
+<link rel='stylesheet' id='the_champ_frontend_css-css'  href='/wp-content/plugins/super-socializer/css/front.css?ver=7.13.10' type='text/css' media='all' />
+<script type='text/javascript' src='/wp-includes/js/jquery/jquery.min.js?ver=3.5.1' id='jquery-core-js'></script>
+<script type='text/javascript' src='/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' id='woocommerce-tokenization-form-js-extra'>
+/* <![CDATA[ */
+var wc_tokenization_form_params = {"is_registration_required":"1","is_logged_in":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='/wp-content/plugins/woocommerce/assets/js/frontend/tokenization-form.min.js?ver=4.8.0' id='woocommerce-tokenization-form-js'></script>
+<script type='text/javascript' src='/wp-content/themes/Divi/core/admin/js/es6-promise.auto.min.js?ver=5.6' id='es6-promise-js'></script>
+<script type='text/javascript' id='et-core-api-spam-recaptcha-js-extra'>
+/* <![CDATA[ */
+var et_core_api_spam_recaptcha = {"site_key":"","page_action":{"action":"jean"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='/wp-content/themes/Divi/core/admin/js/recaptcha.js?ver=5.6' id='et-core-api-spam-recaptcha-js'></script>
+<link rel="https://api.w.org/" href="/wp-json/" /><link rel="alternate" type="application/json" href="/wp-json/wp/v2/product/68" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 5.6" />
+<meta name="generator" content="WooCommerce 4.8.0" />
+<link rel='shortlink' href='/?p=68' />
+<link rel="alternate" type="application/json+oembed" href="/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdyn-dev.oumouexpress.com%2Fproduit%2Fjean" />
+<link rel="alternate" type="text/xml+oembed" href="/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdyn-dev.oumouexpress.com%2Fproduit%2Fjean&#038;format=xml" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" /><link rel="shortcut icon" href="" />	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	<link rel="stylesheet" id="et-divi-customizer-global-cached-inline-styles" href="/wp-content/et-cache/global/et-divi-customizer-global-1608223067266.min.css" onerror="et_core_page_resource_fallback(this, true)" onload="et_core_page_resource_fallback(this)" /></head>
+<body data-rsssl=1 class="product-template-default single single-product postid-68 theme-Divi woocommerce woocommerce-page woocommerce-no-js et_pb_button_helper_class et_fixed_nav et_show_nav et_primary_nav_dropdown_animation_fade et_secondary_nav_dropdown_animation_fade et_header_style_left et_pb_footer_columns4 et_cover_background et_pb_gutter et_pb_gutters3 et_right_sidebar et_divi_theme et-db et_minified_js et_minified_css">
+	<div id="page-container">
+
+	
+	
+			<header id="main-header" data-height-onload="66">
+			<div class="container clearfix et_menu_container">
+							<div class="logo_container">
+					<span class="logo_helper"></span>
+					<a href="/">
+						<img src="/wp-content/themes/Divi/images/logo.png" alt="Dyn Dev Oumou" id="logo" data-height-percentage="54" />
+					</a>
+				</div>
+							<div id="et-top-navigation" data-height="66" data-fixed-height="40">
+											<nav id="top-menu-nav">
+						<ul id="top-menu" class="nav"><li id="menu-item-154" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-154"><a href="/page-daccueil">Page d’accueil</a></li>
+<li id="menu-item-155" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-155"><a href="/mon-compte">Mon compte</a></li>
+<li id="menu-item-156" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-156"><a href="/commander">Validation de la commande</a></li>
+<li id="menu-item-157" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-157"><a href="/panier">Panier</a></li>
+<li id="menu-item-158" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-158"><a href="/boutique">Boutique</a></li>
+</ul>						</nav>
+					
+					<a href="/panier" class="et-cart-info">
+				<span></span>
+			</a>
+					
+										<div id="et_top_search">
+						<span id="et_search_icon"></span>
+					</div>
+					
+					<div id="et_mobile_nav_menu">
+				<div class="mobile_nav closed">
+					<span class="select_page">Sélectionner une page</span>
+					<span class="mobile_menu_bar mobile_menu_bar_toggle"></span>
+				</div>
+			</div>				</div> <!-- #et-top-navigation -->
+			</div> <!-- .container -->
+			<div class="et_search_outer">
+				<div class="container et_search_form_container">
+					<form role="search" method="get" class="et-search-form" action="/">
+					<input type="search" class="et-search-field" placeholder="Rechercher &hellip;" value="" name="s" title="Rechercher:" />					</form>
+					<span class="et_close_search_field"></span>
+				</div>
+			</div>
+		</header> <!-- #main-header -->
+			<div id="et-main-area">
+	
+	
+		<div id="main-content">
+			<div class="container">
+				<div id="content-area" class="clearfix">
+					<div id="left-area"><nav class="woocommerce-breadcrumb"><a href="">Accueil</a>&nbsp;&#47;&nbsp;<a href="/categorie-produit/non-classe">Non classé</a>&nbsp;&#47;&nbsp;jean</nav>
+					
+			<div class="woocommerce-notices-wrapper"></div><div id="product-68" class="product type-product post-68 status-publish first instock product_cat-non-classe has-post-thumbnail shipping-taxable purchasable product-type-simple">
+
+	<div class="clearfix"><div class="woocommerce-product-gallery woocommerce-product-gallery--with-images woocommerce-product-gallery--columns-4 images" data-columns="4" style="opacity: 0; transition: opacity .25s ease-in-out;">
+	<figure class="woocommerce-product-gallery__wrapper">
+		<div data-thumb="/wp-content/uploads/2020/12/jean-droit-l32-venus-femme-p-1022393_1_1200x1200-100x100.jpg" data-thumb-alt="" class="woocommerce-product-gallery__image"><a href="/wp-content/uploads/2020/12/jean-droit-l32-venus-femme-p-1022393_1_1200x1200.jpg"><img width="600" height="600" src="/wp-content/uploads/2020/12/jean-droit-l32-venus-femme-p-1022393_1_1200x1200-600x600.jpg" class="wp-post-image" alt="" loading="lazy" title="jean" data-caption="jean femme" data-src="/wp-content/uploads/2020/12/jean-droit-l32-venus-femme-p-1022393_1_1200x1200.jpg" data-large_image="/wp-content/uploads/2020/12/jean-droit-l32-venus-femme-p-1022393_1_1200x1200.jpg" data-large_image_width="1200" data-large_image_height="1200" /></a></div>	</figure>
+</div>
+
+	<div class="summary entry-summary">
+		<h1 class="product_title entry-title">jean</h1><p class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>21.00</bdi></span></p>
+
+	
+	<form class="cart" action="/produit/jean" method="post" enctype='multipart/form-data'>
+		
+			<div class="quantity">
+				<label class="screen-reader-text" for="quantity_5fdbd6ca7537d">quantité de jean</label>
+		<input
+			type="number"
+			id="quantity_5fdbd6ca7537d"
+			class="input-text qty text"
+			step="1"
+			min="1"
+			max=""
+			name="quantity"
+			value="1"
+			title="Qté"
+			size="4"
+			placeholder=""
+			inputmode="numeric" />
+			</div>
+			<div id="wc-stripe-payment-request-wrapper" style="clear:both;padding-top:1.5em;display:none;">
+			<div id="wc-stripe-payment-request-button">
+								<!-- A Stripe Element will be inserted here. -->
+			</div>
+		</div>
+				<p id="wc-stripe-payment-request-button-separator" style="margin-top:1.5em;text-align:center;display:none;">&mdash; OU &mdash;</p>
+		
+		<button type="submit" name="add-to-cart" value="68" class="single_add_to_cart_button button alt">Ajouter au panier</button>
+
+			</form>
+
+	
+<div class="product_meta">
+
+	
+	
+	<span class="posted_in">Catégorie : <a href="/categorie-produit/non-classe" rel="tag">Non classé</a></span>
+	
+	
+</div>
+	</div>
+
+	</div><!-- #end wrapper -->
+	<div class="woocommerce-tabs wc-tabs-wrapper">
+		<ul class="tabs wc-tabs" role="tablist">
+							<li class="reviews_tab" id="tab-title-reviews" role="tab" aria-controls="tab-reviews">
+					<a href="#tab-reviews">
+						Avis (0)					</a>
+				</li>
+					</ul>
+					<div class="woocommerce-Tabs-panel woocommerce-Tabs-panel--reviews panel entry-content wc-tab" id="tab-reviews" role="tabpanel" aria-labelledby="tab-title-reviews">
+				<div id="reviews" class="woocommerce-Reviews">
+	<div id="comments">
+		<h2 class="woocommerce-Reviews-title">
+			Avis		</h2>
+
+					<p class="woocommerce-noreviews">Il n’y a pas encore d’avis.</p>
+			</div>
+
+			<div id="review_form_wrapper">
+			<div id="review_form">
+					<div id="respond" class="comment-respond">
+		<span id="reply-title" class="comment-reply-title">Soyez le premier à laisser votre avis sur &ldquo;jean&rdquo; <small><a rel="nofollow" id="cancel-comment-reply-link" href="/produit/jean#respond" style="display:none;">Annuler la réponse</a></small></span><form action="/wp-comments-post.php" method="post" id="commentform" class="comment-form"><p class="comment-notes"><span id="email-notes">Votre adresse de messagerie ne sera pas publiée.</span> Les champs obligatoires sont indiqués avec <span class="required">*</span></p><div class="comment-form-rating"><label for="rating">Votre note&nbsp;<span class="required">*</span></label><select name="rating" id="rating" required>
+						<option value="">Évaluation...</option>
+						<option value="5">Parfait</option>
+						<option value="4">Bon</option>
+						<option value="3">Moyen</option>
+						<option value="2">Pas mal</option>
+						<option value="1">Très mauvais</option>
+					</select></div><p class="comment-form-comment"><label for="comment">Votre avis&nbsp;<span class="required">*</span></label><textarea id="comment" name="comment" cols="45" rows="8" required></textarea></p><p class="comment-form-author"><label for="author">Nom&nbsp;<span class="required">*</span></label><input id="author" name="author" type="text" value="" size="30" required /></p>
+<p class="comment-form-email"><label for="email">E-mail &nbsp;<span class="required">*</span></label><input id="email" name="email" type="email" value="" size="30" required /></p>
+<p class="comment-form-cookies-consent"><input id="wp-comment-cookies-consent" name="wp-comment-cookies-consent" type="checkbox" value="yes" /> <label for="wp-comment-cookies-consent">Enregistrer mon nom, mon e-mail et mon site dans le navigateur pour mon prochain commentaire.</label></p>
+<p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Soumettre" /> <input type='hidden' name='comment_post_ID' value='68' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p></form>	</div><!-- #respond -->
+				</div>
+		</div>
+	
+	<div class="clear"></div>
+</div>
+			</div>
+		
+			</div>
+
+
+	<section class="related products">
+
+					<h2>Produits apparentés</h2>
+				
+		<ul class="products columns-3">
+
+			
+					<li class="product type-product post-65 status-publish first instock product_cat-non-classe has-post-thumbnail sale shipping-taxable purchasable product-type-simple">
+	<a href="/produit/t-shirt" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+	<span class="onsale">Promo !</span>
+	<span class="et_shop_image"><img width="300" height="300" src="/wp-content/uploads/2020/12/tshirt-300x300.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /><span class="et_overlay"></span></span><h2 class="woocommerce-loop-product__title">T-shirt</h2>
+	<span class="price"><del><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>123.00</bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>121.00</bdi></span></ins></span>
+</a></li>
+
+			
+		</ul>
+
+	</section>
+	</div>
+
+
+		
+	</div> <!-- #left-area -->
+				</div> <!-- #content-area -->
+			</div> <!-- .container -->
+		</div> <!-- #main-content -->
+	
+
+			<footer id="main-footer">
+				
+<div class="container">
+    <div id="footer-widgets" class="clearfix">
+		<div class="footer-widget"><div id="archives-2" class="fwidget et_pb_widget widget_archive"><h4 class="title">Archives</h4>
+			<ul>
+					<li><a href='/2020/12'>décembre 2020</a></li>
+			</ul>
+
+			</div> <!-- end .fwidget --><div id="categories-2" class="fwidget et_pb_widget widget_categories"><h4 class="title">Catégories</h4>
+			<ul>
+					<li class="cat-item cat-item-1"><a href="/category/uncategorized">Uncategorized</a>
+</li>
+			</ul>
+
+			</div> <!-- end .fwidget --><div id="meta-2" class="fwidget et_pb_widget widget_meta"><h4 class="title">Méta</h4>
+		<ul>
+			<li><a rel="nofollow" href="/wp-login.php?action=register">Inscription</a></li>			<li><a rel="nofollow" href="/wp-login.php">Connexion</a></li>
+			<li><a href="/feed">Flux des publications</a></li>
+			<li><a href="/comments/feed">Flux des commentaires</a></li>
+
+			<li><a href="https://fr.wordpress.org/">Site de WordPress-FR</a></li>
+		</ul>
+
+		</div> <!-- end .fwidget --></div> <!-- end .footer-widget --><div class="footer-widget"></div> <!-- end .footer-widget --><div class="footer-widget"></div> <!-- end .footer-widget --><div class="footer-widget"></div> <!-- end .footer-widget -->    </div> <!-- #footer-widgets -->
+</div>    <!-- .container -->
+
+		
+				<div id="footer-bottom">
+					<div class="container clearfix">
+				<ul class="et-social-icons">
+
+	<li class="et-social-icon et-social-facebook">
+		<a href="#" class="icon">
+			<span>Facebook</span>
+		</a>
+	</li>
+	<li class="et-social-icon et-social-twitter">
+		<a href="#" class="icon">
+			<span>Twitter</span>
+		</a>
+	</li>
+	<li class="et-social-icon et-social-google-plus">
+		<a href="#" class="icon">
+			<span>Google</span>
+		</a>
+	</li>
+	<li class="et-social-icon et-social-instagram">
+		<a href="#" class="icon">
+			<span>Instagram</span>
+		</a>
+	</li>
+	<li class="et-social-icon et-social-rss">
+		<a href="/feed" class="icon">
+			<span>RSS</span>
+		</a>
+	</li>
+
+</ul><p id="footer-info">Design de <a href="http://www.elegantthemes.com" title="Premium WordPress Themes">Elegant Themes</a> | Propulsé par <a href="http://www.wordpress.org">WordPress</a></p>					</div>	<!-- .container -->
+				</div>
+			</footer> <!-- #main-footer -->
+		</div> <!-- #et-main-area -->
+
+
+	</div> <!-- #page-container -->
+
+	
+<div class="xoo-wsc-modal">
+
+	
+<div class="xoo-wsc-container">
+
+	<div class="xoo-wsc-basket">
+
+					<span class="xoo-wsc-items-count">0</span>
+		
+		<span class="xoo-wsc-bki xoo-wsc-icon-basket1"></span>
+
+		
+	</div>
+
+	<div class="xoo-wsc-header">
+
+		
+		
+<div class="xoo-wsch-top">
+
+			<div class="xoo-wsc-notice-container" data-section="cart"><ul class="xoo-wsc-notices"></ul></div>	
+			<div class="xoo-wsch-basket">
+			<span class="xoo-wscb-icon xoo-wsc-icon-bag2"></span>
+			<span class="xoo-wscb-count">0</span>
+		</div>
+	
+			<span class="xoo-wsch-text">Your Cart</span>
+	
+			<span class="xoo-wsch-close xoo-wsc-icon-cross"></span>
+	
+</div>
+		
+	</div>
+
+
+	<div class="xoo-wsc-body">
+
+		
+		
+<div class="xoo-wsc-empty-cart"><span>Your cart is empty</span><a class="button btn" href="/boutique">Return to Shop</a></div>
+		
+	</div>
+
+	<div class="xoo-wsc-footer">
+
+		
+		
+
+
+
+<div class="xoo-wsc-ft-buttons-cont">
+
+	<a href="#" class="xoo-wsc-ft-btn button btn xoo-wsc-ft-btn-continue">Continue Shopping</a>
+</div>
+
+
+		
+	</div>
+
+	<span class="xoo-wsc-loader"></span>
+
+</div>
+	<span class="xoo-wsc-opac">
+
+</div><script type="application/ld+json">{"@context":"https:\/\/schema.org\/","@graph":[{"@context":"https:\/\/schema.org\/","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"name":"Accueil","@id":"https:\/\/dyn-dev.oumouexpress.com"}},{"@type":"ListItem","position":2,"item":{"name":"Non class\u00e9","@id":"https:\/\/dyn-dev.oumouexpress.com\/categorie-produit\/non-classe"}},{"@type":"ListItem","position":3,"item":{"name":"jean","@id":"https:\/\/dyn-dev.oumouexpress.com\/produit\/jean"}}]},{"@context":"https:\/\/schema.org\/","@type":"Product","@id":"https:\/\/dyn-dev.oumouexpress.com\/produit\/jean#product","name":"jean","url":"https:\/\/dyn-dev.oumouexpress.com\/produit\/jean","description":"","image":"https:\/\/dyn-dev.oumouexpress.com\/wp-content\/uploads\/2020\/12\/jean-droit-l32-venus-femme-p-1022393_1_1200x1200.jpg","sku":68,"offers":[{"@type":"Offer","price":"21.00","priceValidUntil":"2021-12-31","priceSpecification":{"price":"21.00","priceCurrency":"USD","valueAddedTaxIncluded":"false"},"priceCurrency":"USD","availability":"http:\/\/schema.org\/InStock","url":"https:\/\/dyn-dev.oumouexpress.com\/produit\/jean","seller":{"@type":"Organization","name":"Dyn Dev Oumou","url":"https:\/\/dyn-dev.oumouexpress.com"}}]}]}</script>
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+	<div class="pswp__bg"></div>
+	<div class="pswp__scroll-wrap">
+		<div class="pswp__container">
+			<div class="pswp__item"></div>
+			<div class="pswp__item"></div>
+			<div class="pswp__item"></div>
+		</div>
+		<div class="pswp__ui pswp__ui--hidden">
+			<div class="pswp__top-bar">
+				<div class="pswp__counter"></div>
+				<button class="pswp__button pswp__button--close" aria-label="Fermer (Echap)"></button>
+				<button class="pswp__button pswp__button--share" aria-label="Partagez"></button>
+				<button class="pswp__button pswp__button--fs" aria-label="Basculer en plein écran"></button>
+				<button class="pswp__button pswp__button--zoom" aria-label="Zoomer/Dézoomer"></button>
+				<div class="pswp__preloader">
+					<div class="pswp__preloader__icn">
+						<div class="pswp__preloader__cut">
+							<div class="pswp__preloader__donut"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+				<div class="pswp__share-tooltip"></div>
+			</div>
+			<button class="pswp__button pswp__button--arrow--left" aria-label="Précédent (flèche  gauche)"></button>
+			<button class="pswp__button pswp__button--arrow--right" aria-label="Suivant (flèche droite)"></button>
+			<div class="pswp__caption">
+				<div class="pswp__caption__center"></div>
+			</div>
+		</div>
+	</div>
+</div>
+	<div id="fb-root"></div>
+		<script type="text/javascript">
+		(function () {
+			var c = document.body.className;
+			c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+			document.body.className = c;
+		})()
+	</script>
+	<script type='text/javascript' src='/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70' id='jquery-blockui-js'></script>
+<script type='text/javascript' id='wc-add-to-cart-js-extra'>
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"Voir le panier","cart_url":"https:\/\/dyn-dev.oumouexpress.com\/panier","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=4.8.0' id='wc-add-to-cart-js'></script>
+<script type='text/javascript' src='/wp-content/plugins/woocommerce/assets/js/zoom/jquery.zoom.min.js?ver=1.7.21' id='zoom-js'></script>
+<script type='text/javascript' src='/wp-content/plugins/woocommerce/assets/js/flexslider/jquery.flexslider.min.js?ver=2.7.2' id='flexslider-js'></script>
+<script type='text/javascript' src='/wp-content/plugins/woocommerce/assets/js/photoswipe/photoswipe.min.js?ver=4.1.1' id='photoswipe-js'></script>
+<script type='text/javascript' src='/wp-content/plugins/woocommerce/assets/js/photoswipe/photoswipe-ui-default.min.js?ver=4.1.1' id='photoswipe-ui-default-js'></script>
+<script type='text/javascript' id='wc-single-product-js-extra'>
+/* <![CDATA[ */
+var wc_single_product_params = {"i18n_required_rating_text":"Veuillez s\u00e9lectionner une note","review_rating_required":"yes","flexslider":{"rtl":false,"animation":"slide","smoothHeight":true,"directionNav":false,"controlNav":"thumbnails","slideshow":false,"animationSpeed":500,"animationLoop":false,"allowOneSlide":false},"zoom_enabled":"1","zoom_options":[],"photoswipe_enabled":"1","photoswipe_options":{"shareEl":false,"closeOnScroll":false,"history":false,"hideAnimationDuration":0,"showAnimationDuration":0},"flexslider_enabled":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='/wp-content/plugins/woocommerce/assets/js/frontend/single-product.min.js?ver=4.8.0' id='wc-single-product-js'></script>
+<script type='text/javascript' src='/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4' id='js-cookie-js'></script>
+<script type='text/javascript' id='woocommerce-js-extra'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=4.8.0' id='woocommerce-js'></script>
+<script type='text/javascript' id='wc-cart-fragments-js-extra'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_bc23982fb788a716ab1758c256fe3934","fragment_name":"wc_fragments_bc23982fb788a716ab1758c256fe3934","request_timeout":"5000"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=4.8.0' id='wc-cart-fragments-js'></script>
+<script type='text/javascript' src='https://js.stripe.com/v3/?ver=3.0' id='stripe-js'></script>
+<script type='text/javascript' id='wc_stripe_payment_request-js-extra'>
+/* <![CDATA[ */
+var wc_stripe_payment_request_params = {"ajax_url":"\/?wc-ajax=%%endpoint%%","stripe":{"key":"pk_test_51HygYJKLlitmuQlhOlUuBFrANKP9mFDOhQX6k8J6OuQ4Thum2YAXBh4TF3yTHK27l2nMg45CLsec9nQLTXwkWTOE00xFs962Ys","allow_prepaid_card":"yes"},"nonce":{"payment":"3936f492a1","shipping":"732c15d285","update_shipping":"d2bb85d6f4","checkout":"07273a42cf","add_to_cart":"434cc21e44","get_selected_product_data":"d57f146967","log_errors":"f2bfbced86","clear_cart":"17d2200931"},"i18n":{"no_prepaid_card":"D\u00e9sol\u00e9, nous n\u2019acceptons pas les cartes de paiement pr\u00e9pay\u00e9es actuellement.","unknown_shipping":"Option d\u2019exp\u00e9dition inconnue \"[option]\"."},"checkout":{"url":"https:\/\/dyn-dev.oumouexpress.com\/commander","currency_code":"usd","country_code":"SN","needs_shipping":"no","needs_payer_phone":true},"button":{"type":"buy","theme":"dark","height":"44","locale":"fr","is_custom":false,"is_branded":false,"css_selector":"","branded_type":"long"},"is_product_page":"1","product":{"shippingOptions":{"id":"pending","label":"En attente","detail":"","amount":0},"displayItems":[{"label":"jean","amount":2100},{"label":"Livraison","amount":0,"pending":true}],"total":{"label":"Moctar Ba (via WooCommerce)","amount":2100,"pending":true},"requestShipping":true,"currency":"usd","country_code":"SN"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='/wp-content/plugins/woocommerce-gateway-stripe/assets/js/stripe-payment-request.min.js?ver=4.6.0' id='wc_stripe_payment_request-js'></script>
+<script type='text/javascript' src='/wp-content/plugins/woocommerce/assets/js/jquery-payment/jquery.payment.min.js?ver=3.0.0' id='jquery-payment-js'></script>
+<script type='text/javascript' id='woocommerce_stripe-js-extra'>
+/* <![CDATA[ */
+var wc_stripe_params = {"key":"pk_test_51HygYJKLlitmuQlhOlUuBFrANKP9mFDOhQX6k8J6OuQ4Thum2YAXBh4TF3yTHK27l2nMg45CLsec9nQLTXwkWTOE00xFs962Ys","i18n_terms":"Veuillez d\u2019abord accepter les conditions d\u2019utilisation","i18n_required_fields":"Veuillez remplir les champs obligatoires d\u2019abord","no_prepaid_card_msg":"D\u00e9sol\u00e9, nous n\u2019acceptons pas les cartes pr\u00e9pay\u00e9es pour le moment. Votre carte de paiement n\u2019a pas \u00e9t\u00e9 d\u00e9bit\u00e9e. Veuillez essayer avec un autre mode de paiement.","no_sepa_owner_msg":"Veuillez saisir votre nom de compte IBAN.","no_sepa_iban_msg":"Veuillez saisir votre num\u00e9ro de compte IBAN.","payment_intent_error":"Nous n\u2019avons pas pu initier le paiement. Veuillez r\u00e9essayer.","sepa_mandate_notification":"email","allow_prepaid_card":"yes","inline_cc_form":"no","is_checkout":"no","return_url":"https:\/\/dyn-dev.oumouexpress.com\/commander\/order-received?utm_nooverride=1","ajaxurl":"\/?wc-ajax=%%endpoint%%","stripe_nonce":"e73f3e915d","statement_descriptor":"Moctar Ba","elements_options":[],"sepa_elements_options":{"supportedCountries":["SEPA"],"placeholderCountry":"SN","style":{"base":{"fontSize":"15px"}}},"invalid_owner_name":"Le nom de famille et le pr\u00e9nom sont requis.","is_change_payment_page":"no","is_add_payment_page":"no","is_pay_for_order_page":"no","elements_styling":"","elements_classes":"","invalid_number":"Le num\u00e9ro de la carte de paiement n\u2019est pas un num\u00e9ro de carte de paiement valide.","invalid_expiry_month":"Le mois d\u2019expiration de la carte de paiement est invalide.","invalid_expiry_year":"L\u2019ann\u00e9e d\u2019expiration de la carte n\u2019est pas valide.","invalid_cvc":"Le code de s\u00e9curit\u00e9 de la carte de paiement est invalide.","incorrect_number":"La num\u00e9ro de la carte de paiement est incorrect.","incomplete_number":"Le num\u00e9ro de carte est incomplet.","incomplete_cvc":"Le code de s\u00e9curit\u00e9 de la carte est incomplet.","incomplete_expiry":"La date d\u2019expiration de la carte est incompl\u00e8te.","expired_card":"La carte de paiement a expir\u00e9.","incorrect_cvc":"Le code de s\u00e9curit\u00e9 de la carte de paiement est incorrect.","incorrect_zip":"Le code postal de la carte de paiement a \u00e9chou\u00e9 la validation.","invalid_expiry_year_past":"L\u2019ann\u00e9e d\u2019expiration de la carte est d\u00e9pass\u00e9e","card_declined":"La carte de paiement a \u00e9t\u00e9 refus\u00e9e.","missing":"Il n\u2019existe pas de carte de paiement pour le client qui est en cours de facturation.","processing_error":"Une erreur est survenue lors du traitement de la carte de paiement.","invalid_request_error":"Impossible de traiter ce paiement, veuillez r\u00e9essayer ou utiliser une autre m\u00e9thode.","invalid_sofort_country":"Le pays de facturation n\u2019est pas accept\u00e9 par SOFORT. S\u2019il-vous-pla\u00eet essayez un autre pays.","email_invalid":"Adresse email invalide, veuillez corriger et r\u00e9essayer."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='/wp-content/plugins/woocommerce-gateway-stripe/assets/js/stripe.min.js?ver=4.6.0' id='woocommerce_stripe-js'></script>
+<script type='text/javascript' id='mailchimp-woocommerce-js-extra'>
+/* <![CDATA[ */
+var mailchimp_public_data = {"site_url":"https:\/\/dyn-dev.oumouexpress.com","ajax_url":"https:\/\/dyn-dev.oumouexpress.com\/wp-admin\/admin-ajax.php","language":"fr"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='/wp-content/plugins/mailchimp-for-woocommerce/public/js/mailchimp-woocommerce-public.min.js?ver=2.5.0' id='mailchimp-woocommerce-js'></script>
+<script type='text/javascript' id='divi-custom-script-js-extra'>
+/* <![CDATA[ */
+var DIVI = {"item_count":"%d Item","items_count":"%d Items"};
+var et_shortcodes_strings = {"previous":"Pr\u00e9c\u00e9dent","next":"Suivant"};
+var et_pb_custom = {"ajaxurl":"https:\/\/dyn-dev.oumouexpress.com\/wp-admin\/admin-ajax.php","images_uri":"https:\/\/dyn-dev.oumouexpress.com\/wp-content\/themes\/Divi\/images","builder_images_uri":"https:\/\/dyn-dev.oumouexpress.com\/wp-content\/themes\/Divi\/includes\/builder\/images","et_frontend_nonce":"2372a6b6a7","subscription_failed":"Veuillez v\u00e9rifier les champs ci-dessous pour vous assurer que vous avez entr\u00e9 les informations correctes.","et_ab_log_nonce":"b5c76c3801","fill_message":"S'il vous pla\u00eet, remplissez les champs suivants:","contact_error_message":"Veuillez corriger les erreurs suivantes :","invalid":"E-mail non valide","captcha":"Captcha","prev":"Pr\u00e9c\u00e9dent","previous":"Pr\u00e9c\u00e9dente","next":"Prochaine","wrong_captcha":"Vous avez entr\u00e9 le mauvais num\u00e9ro dans le captcha.","wrong_checkbox":"Checkbox","ignore_waypoints":"no","is_divi_theme_used":"1","widget_search_selector":".widget_search","ab_tests":[],"is_ab_testing_active":"","page_id":"68","unique_test_id":"","ab_bounce_rate":"5","is_cache_plugin_active":"no","is_shortcode_tracking":"","tinymce_uri":""}; var et_builder_utils_params = {"condition":{"diviTheme":true,"extraTheme":false},"scrollLocations":["app","top"],"builderScrollLocations":{"desktop":"app","tablet":"app","phone":"app"},"onloadScrollLocation":"app","builderType":"fe"}; var et_frontend_scripts = {"builderCssContainerPrefix":"#et-boc","builderCssLayoutPrefix":"#et-boc .et-l"};
+var et_pb_box_shadow_elements = [];
+var et_pb_motion_elements = {"desktop":[],"tablet":[],"phone":[]};
+var et_pb_sticky_elements = [];
+/* ]]> */
+</script>
+<script type='text/javascript' src='/wp-content/themes/Divi/js/custom.unified.js?ver=4.6.0' id='divi-custom-script-js'></script>
+<script type='text/javascript' src='/wp-content/plugins/super-socializer/js/front/social_login/general.js?ver=7.13.10' id='the_champ_ss_general_scripts-js'></script>
+<script type='text/javascript' src='/wp-content/plugins/super-socializer/js/front/social_login/common.js?ver=7.13.10' id='the_champ_sl_common-js'></script>
+<script type='text/javascript' id='thickbox-js-extra'>
+/* <![CDATA[ */
+var thickboxL10n = {"next":"Suiv.\u00a0>","prev":"<\u00a0Pr\u00e9c.","image":"Image","of":"sur","close":"Fermer","noiframes":"Cette fonctionnalit\u00e9 requiert des iframes. Les iframes sont d\u00e9sactiv\u00e9es sur votre navigateur, ou alors il ne les accepte pas.","loadingAnimation":"https:\/\/dyn-dev.oumouexpress.com\/wp-includes\/js\/thickbox\/loadingAnimation.gif"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='/wp-includes/js/thickbox/thickbox.js?ver=3.1-20121105' id='thickbox-js'></script>
+<script type='text/javascript' src='/wp-content/plugins/super-socializer/js/front/facebook/sdk.js?ver=7.13.10' id='the_champ_fb_sdk-js'></script>
+<script type='text/javascript' id='et-builder-cpt-modules-wrapper-js-extra'>
+/* <![CDATA[ */
+var et_modules_wrapper = {"builderCssContainerPrefix":"#et-boc","builderCssLayoutPrefix":"#et-boc .et-l"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='/wp-content/themes/Divi/includes/builder/scripts/cpt-modules-wrapper.js?ver=4.6.0' id='et-builder-cpt-modules-wrapper-js'></script>
+<script type='text/javascript' id='xoo-wsc-main-js-js-extra'>
+/* <![CDATA[ */
+var xoo_wsc_params = {"adminurl":"https:\/\/dyn-dev.oumouexpress.com\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","qtyUpdateDelay":"500","notificationTime":"5000","html":{"successNotice":"<ul class=\"xoo-wsc-notices\"><li class=\"xoo-wsc-notice-success\"><span class=\"xoo-wsc-icon-check_circle\"><\/span>%s%<\/li><\/ul>","errorNotice":"<ul class=\"xoo-wsc-notices\"><li class=\"xoo-wsc-notice-error\"><span class=\"xoo-wsc-icon-cross\"><\/span>%s%<\/li><\/ul>"},"strings":{"maxQtyError":"Only %s% in stock","stepQtyError":"Quantity can only be purchased in multiple of %s%","calculateCheckout":"Please use checkout form to calculate shipping","couponEmpty":"Please enter promo code"},"isCheckout":"","isCart":"","sliderAutoClose":"1","shippingEnabled":"1","couponsEnabled":"1","autoOpenCart":"yes","addedToCart":"","ajaxAddToCart":"yes","showBasket":"always_show","flyToCart":"no","productFlyClass":"","refreshCart":"no","fetchDelay":"200"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='/wp-content/plugins/side-cart-woocommerce/assets/js/xoo-wsc-main.js?ver=2.1' id='xoo-wsc-main-js-js'></script>
+<script type='text/javascript' src='/wp-content/themes/Divi/core/admin/js/common.js?ver=4.6.0' id='et-core-common-js'></script>
+</body>
+</html>
